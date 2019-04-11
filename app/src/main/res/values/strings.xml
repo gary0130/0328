@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">0328</string>
+    <string name="name" >name</string>
+    <string name="height">Height(cm)</string>
+    <string name="weight">Weight(kg)</string>
+    <string name="button">go!</string>
+    <string name="result">Hello %s,your BMI is %.2f.</string>
+</resources>

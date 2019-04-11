@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">0328</string>
+    <string name="name">請輸入姓名</string>
+    <string name="height">請輸入身高(cm)</string>
+    <string name="weight">請輸入體重(kg)</string>
+    <string name="button">計算!</string>
+    <string name="result">%s 你好，你的BMI是 %.2f 。</string>
+</resources>
