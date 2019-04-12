@@ -5,4 +5,7 @@
     <string name="weight">Weight(kg)</string>
     <string name="button">go!</string>
     <string name="result">Hello %s,your BMI is %.2f.</string>
+    <string name="toa_thin">too thin!</string>
+    <string name="toa_fat">too fat!</string>
+    <string name="toa_perfet">It\'s perfet!</string>
 </resources>

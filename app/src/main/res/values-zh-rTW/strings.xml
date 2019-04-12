@@ -6,4 +6,7 @@
     <string name="weight">請輸入體重(kg)</string>
     <string name="button">計算!</string>
     <string name="result">%s 你好，你的BMI是 %.2f 。</string>
+    <string name="toa_thin">太瘦了</string>
+    <string name="toa_fat">太胖了</string>
+    <string name="toa_perfet">剛好</string>
 </resources>

@@ -10,6 +10,7 @@
         android:id="@+id/result"
         android:layout_width="158dp"
         android:layout_height="107dp"
+        android:textColor="@android:color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.936"
         app:layout_constraintLeft_toLeftOf="parent"
